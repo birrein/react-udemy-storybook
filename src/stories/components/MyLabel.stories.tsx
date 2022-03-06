@@ -38,3 +38,10 @@ Tertiary.args = {
   size: 'normal',
   color: 'tertiary',
 };
+
+export const CusomBackgroundColor = Template.bind({});
+CusomBackgroundColor.args = {
+  size: 'h1',
+  fontColor: 'white',
+  backgroundColor: 'black',
+};
