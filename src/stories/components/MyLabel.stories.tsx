@@ -2,7 +2,7 @@ import { ComponentMeta, ComponentStory } from '@storybook/react';
 import { MyLabel } from '../../components/MyLabel';
 
 export default {
-  title: 'Example/MyLabel',
+  title: 'MyComponent/MyLabel',
   component: MyLabel,
   argTypes: {
     color: {
