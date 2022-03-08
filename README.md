@@ -3,7 +3,7 @@
 Test package to learn Storybook, Github Actions and publish to NPM.
 
 ```bash
-npm instsall brn-storybook-test-component
+npm install brn-storybook-test-component
 ```
 
 ## Demo
